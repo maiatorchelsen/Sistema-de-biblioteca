@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2020",         /* Especifica a versão alvo do JavaScript (moderna) */
+    "module": "commonjs",       /* Define o sistema de módulos do Node.js */
+    "rootDir": "./src",         /* Pasta onde estão seus arquivos .ts */
+    "outDir": "./dist",         /* Pasta onde os arquivos .js compilados serão colocados */
+    "strict": true,             /* Ativa todas as verificações de tipo estritas (recomendado) */
+    "esModuleInterop": true,    /* Importante para compatibilidade entre módulos */
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*"]
+}

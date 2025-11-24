@@ -1,0 +1,67 @@
+[
+  {
+    "isbnLivro": "8581050484",
+    "matriculaMembro": "111",
+    "dataEmprestimo": "2025-11-17T20:50:19.478Z",
+    "dataDevolucao": "2025-11-17T20:50:42.934Z"
+  },
+  {
+    "isbnLivro": "8560280944",
+    "matriculaMembro": "2013",
+    "dataEmprestimo": "2025-11-17T21:08:52.800Z",
+    "dataDevolucao": "2025-11-17T21:09:07.902Z"
+  },
+  {
+    "isbnLivro": "8556510256",
+    "matriculaMembro": "222",
+    "dataEmprestimo": "2025-11-17T21:44:05.242Z"
+  },
+  {
+    "isbnLivro": "8581050484",
+    "matriculaMembro": "222",
+    "dataEmprestimo": "2025-11-17T21:55:25.829Z",
+    "dataDevolucao": "2025-11-17T21:55:39.143Z"
+  },
+  {
+    "isbnLivro": "8581050484",
+    "matriculaMembro": "222",
+    "dataEmprestimo": "2025-11-17T22:02:33.357Z",
+    "dataDevolucao": "2025-11-17T22:02:56.025Z"
+  },
+  {
+    "isbnLivro": "8581050484",
+    "matriculaMembro": "222",
+    "dataEmprestimo": "2025-11-17T22:12:19.148Z",
+    "dataDevolucao": "2025-11-17T22:12:40.261Z"
+  },
+  {
+    "isbnLivro": "8581050484",
+    "matriculaMembro": "222",
+    "dataEmprestimo": "2025-11-17T22:18:25.391Z",
+    "dataDevolucao": "2025-11-17T22:18:46.983Z"
+  },
+  {
+    "isbnLivro": "8560280944",
+    "matriculaMembro": "222",
+    "dataEmprestimo": "2025-11-17T22:23:47.607Z",
+    "dataDevolucao": "2025-11-17T22:24:11.409Z"
+  },
+  {
+    "isbnLivro": "8581050484",
+    "matriculaMembro": "222",
+    "dataEmprestimo": "2025-11-17T22:31:08.380Z",
+    "dataDevolucao": "2025-11-17T22:31:29.862Z"
+  },
+  {
+    "isbnLivro": "8560280944",
+    "matriculaMembro": "222",
+    "dataEmprestimo": "2025-11-17T23:19:29.651Z",
+    "dataDevolucao": "2025-11-17T23:19:51.343Z"
+  },
+  {
+    "isbnLivro": "8560280944",
+    "matriculaMembro": "222",
+    "dataEmprestimo": "2025-11-17T23:33:17.932Z",
+    "dataDevolucao": "2025-11-17T23:33:35.926Z"
+  }
+]

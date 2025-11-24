@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "o iluminado",
+    "autor": "stephen king",
+    "isbn": "8581050484",
+    "anoPublicacao": 1977,
+    "disponivel": true
+  },
+  {
+    "titulo": "it a coisa",
+    "autor": "stephen king",
+    "isbn": "8560280944",
+    "anoPublicacao": 1987,
+    "disponivel": true
+  },
+  {
+    "titulo": "cujo",
+    "autor": "stephen king",
+    "isbn": "8556510256",
+    "anoPublicacao": 1989,
+    "disponivel": false
+  },
+  {
+    "titulo": "carrie",
+    "autor": "stephen king",
+    "isbn": "978-6557824801 ",
+    "anoPublicacao": 2012,
+    "disponivel": true
+  },
+  {
+    "titulo": "nunca minta",
+    "autor": "Freida Mcfadden",
+    "isbn": "B0DP1DH4MX",
+    "anoPublicacao": 2025,
+    "disponivel": true
+  }
+]
