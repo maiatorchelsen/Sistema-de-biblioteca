@@ -35,7 +35,7 @@ Instalação:
 
 Clone o repositório:
 
-git clone <>
+git clone <https://github.com/maiatorchelsen/Sistema-de-biblioteca.git>
 Instale as dependências:
 
 npm install
@@ -49,19 +49,14 @@ Executar Testes:
 Para rodar os testes automatizados, execute:
 
 npx jest
-Estrutura do Projeto
-src: Contém o código-fonte do sistema.
-cli/: Implementação da interface de linha de comando.
-data: Classe de persistência e arquivos JSON para armazenamento.
-servicos/: Gerenciadores de livros, membros e empréstimos.
-biblioteca/: Modelos de dados (Livro, Membro, Emprestimo, etc.).
-__tests__/: Testes automatizados para validação das funcionalidades.
+
 Oportunidades de Melhoria
 Implementar validações mais robustas para entradas do usuário.
 Adicionar suporte a banco de dados para maior escalabilidade.
 Criar uma interface gráfica (GUI) ou aplicação web.
 Adicionar controle de prazos e cálculo de multas para devoluções atrasadas.
 Expandir os testes automatizados para cobrir mais cenários.
+
 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
